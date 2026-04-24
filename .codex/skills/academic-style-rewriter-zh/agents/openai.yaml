@@ -1,0 +1,5 @@
+interface:
+  display_name: 论文语言学术化改写
+  short_description: 将论文内容改写为正式、严谨、自然的本科毕业论文表达，减少口语化和 AI 痕迹。
+  icon: pencil-square
+  color: purple
