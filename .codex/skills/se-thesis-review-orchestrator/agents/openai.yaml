@@ -1,5 +1,0 @@
-interface:
-  display_name: 软件工程论文总控审查
-  short_description: 识别章节类型，组织论文审查重点，并按固定格式输出完整评阅结果。
-  icon: document-text
-  color: blue

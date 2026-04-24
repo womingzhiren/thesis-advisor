@@ -1,0 +1,5 @@
+interface:
+  display_name: Thesis Reference And Figure Checker
+  short_description: Check thesis figures, software engineering diagrams, and references.
+  icon: "📊"
+  primary_color: "#7c3aed"

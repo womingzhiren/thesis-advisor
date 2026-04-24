@@ -1,0 +1,4 @@
+interface:
+  display_name: Software Engineering Thesis Revision Advisor
+  short_description: Strict revision guidance for undergraduate software engineering theses.
+  brand_color: '#1f6feb'

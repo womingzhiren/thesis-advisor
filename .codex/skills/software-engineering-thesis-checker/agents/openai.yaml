@@ -1,5 +1,0 @@
-interface:
-  display_name: 软件工程专业性审查
-  short_description: 从需求、设计、实现、测试四个方面检查论文是否符合软件工程本科毕业设计要求。
-  icon: academic-cap
-  color: green

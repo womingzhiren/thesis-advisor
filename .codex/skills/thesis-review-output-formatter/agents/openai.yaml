@@ -1,5 +1,0 @@
-interface:
-  display_name: 论文审查结果格式整理
-  short_description: 将问题诊断、修改建议和改写内容整理为统一、规范、清晰的论文评阅输出格式。
-  icon: clipboard-document-list
-  color: orange

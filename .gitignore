@@ -9,3 +9,6 @@ Thumbs.db
 # Project output directories
 papers/
 revision/
+outputs/
+*.tmp
+__pycache__/

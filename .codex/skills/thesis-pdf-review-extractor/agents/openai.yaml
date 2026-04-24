@@ -1,0 +1,5 @@
+interface:
+  display_name: 论文 PDF 结构提取
+  short_description: 读取毕业论文 PDF，提取章节、页码、图表和参考文献位置，不做最终质量判断。
+  icon: document-magnifying-glass
+  color: cyan
